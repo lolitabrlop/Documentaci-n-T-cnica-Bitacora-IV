@@ -1,1 +1,0 @@
-# Documentaci-n-T-cnica-Bitacora-IV
