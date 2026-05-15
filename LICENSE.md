@@ -9,5 +9,5 @@ Su licencia se rige por la de código abierto BSD. Licencia libre permisiva, est
 
 ## Bibliografía
 [1]	Opensuse.org. [En línea]. Disponible en: https://es.opensuse.org/OpenSSH. [Consultado: 15-may-2026].
-[2]	Wikipedia contributors, “Apache Guacamole”, Wikipedia, The Free Encyclopedia. [En línea]. Disponible en: https://es.wikipedia.org/w/index.php?title=Apache_Guacamole&oldid=164554208. [Consultado: 15-may-2026].
+[2]	Wikipedia contributors, “Apache Guacamole”, Wikipedia, The Free Encyclopedia. [En línea]. Disponible en: https://es.wikipedia.org/w/index.php?title=Apache_Guacamole&oldid=164554208. [Consultado: 15-may-2026].b 
 
