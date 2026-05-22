@@ -38,4 +38,8 @@ Para que el equipo esté totalmente comunicado cuando pase algo o se tenga que h
 
 | \[1\] | “Introducción a Docker ¡Evita problemas de compatibilidad\!”, .*Ed.team*. \[En línea\]. Disponible en: https://ed.team/blog/introduccion-a-docker-evita-problemas-de-compatibilidad. \[Consultado: 15-may-2026\]. |
 | :---- | :---- |
+Bibliografía
+
+| \[2\] | M. A. A. Jaimes, “Búsqueda y selección de servicios web con restricciones QoS en ambientes cloud computing”, Universidad del Norte (Colombia), 2021.
+
 
