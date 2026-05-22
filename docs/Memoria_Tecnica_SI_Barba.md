@@ -9,13 +9,13 @@ Desarrollo de Aplicaciones Multiplataforma
 
 **Índice**
 
-[1\. Análisis de Necesidades	3](#análisis-de-necesidades)
+1. Análisis de Necesidades	
 
-[2. Estimación de Costes de Infraestructura	
+2. Estimación de Costes de Infraestructura	
 
 [Título 3	3](#título-3)
 
-[Bibliografía	4](#bibliografía)
+Bibliografía	
 
 1. # Análisis de Necesidades {#análisis-de-necesidades}
 
@@ -26,7 +26,8 @@ Desarrollo de Aplicaciones Multiplataforma
 3. **¿Por qué elegimos esta solución y no conectar directamente por RDP a cada máquina?**  
    Porqué con estas dos herramientas se permite hacer un uso excelente de las funciones al máximo sin tener que estar dependiendo de varias aplicaciones a la vez, permite que se pueda trabajar de manera simultánea desde un mismo punto lo que se rige como una de las mejores opciones que puede haber dentro de la distribución. 
 
-## Título 2 {#título-2}
+## 2. Estimación de Costes de Infraestructura
+<img width="788" height="191" alt="image" src="https://github.com/user-attachments/assets/7d4ed8fe-9d30-438e-9614-b149db8ba973" />
 
 ### Título 3 {#título-3}
 
