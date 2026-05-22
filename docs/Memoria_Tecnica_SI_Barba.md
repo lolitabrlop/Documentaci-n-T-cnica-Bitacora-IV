@@ -11,7 +11,7 @@ Desarrollo de Aplicaciones Multiplataforma
 
 [1\. Análisis de Necesidades	3](#análisis-de-necesidades)
 
-[Título 2	3](#título-2)
+[2. Estimación de Costes de Infraestructura	3](#título-2)
 
 [Título 3	3](#título-3)
 
