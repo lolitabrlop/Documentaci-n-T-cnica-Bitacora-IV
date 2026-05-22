@@ -40,6 +40,6 @@ Para que el equipo esté totalmente comunicado cuando pase algo o se tenga que h
 | :---- | :---- |
 Bibliografía
 
-| \[2\] | M. A. A. Jaimes, “Búsqueda y selección de servicios web con restricciones QoS en ambientes cloud computing”, Universidad del Norte (Colombia), 2021.
+| \[2\] | M. A. A. Jaimes, “Búsqueda y selección de servicios web con restricciones QoS en ambientes cloud computing\!”, https://manglar.uninorte.edu.co/handle/10584/10092. \[Universidad del Norte (Colombia), 2021\]. |
 
 
