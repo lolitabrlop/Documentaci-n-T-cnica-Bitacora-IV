@@ -15,6 +15,8 @@ Desarrollo de Aplicaciones Multiplataforma
 
 3. Estrategia de espliegue y comunicación
 
+4. Justificación Científica
+
 Bibliografía	
 
  ## 1. Análisis de Necesidades {#análisis-de-necesidades}
@@ -34,7 +36,10 @@ Se va a usar las integraciones de Cloud nativas pero combinandolas con SFTP. Est
 
 Para que el equipo esté totalmente comunicado cuando pase algo o se tenga que hacer una reunión, la mejor manera es por Microsoft Teams. Es un app preparada para gestionar de manera eficiente la comunicación con los equipos, apoyo en los proyectos y aviso de cualquier incidencia. Es por escelencia la que usan la mayo0ría de las empresas. 
 
-## Bibliografía {#bibliografía}
+## 4. Justificación Científica
+La tesis recoge lo consciente que es el problema de la nube para la búsqueda y la selección de los servicios web. Es por ello que indaga el como nuevas tecnologías pueden hacer frente a este problema y mejorar una calidad con respecto a este problema. El sistema es concebido desde una arquitectura por componentes que brinda la seguridad y a la adaptación de nuevos criterios. 
+
+## Bibliografía 
 
 | \[1\] | “Introducción a Docker ¡Evita problemas de compatibilidad\!”, .*Ed.team*. \[En línea\]. Disponible en: https://ed.team/blog/introduccion-a-docker-evita-problemas-de-compatibilidad. \[Consultado: 15-may-2026\]. |
 | :---- | :---- |
