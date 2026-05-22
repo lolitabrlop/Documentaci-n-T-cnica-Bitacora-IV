@@ -13,11 +13,11 @@ Desarrollo de Aplicaciones Multiplataforma
 
 2. Estimación de Costes de Infraestructura	
 
-[Título 3	3](#título-3)
+3. Estrategia de espliegue y comunicación
 
 Bibliografía	
 
-1. # Análisis de Necesidades {#análisis-de-necesidades}
+ ## 1. Análisis de Necesidades {#análisis-de-necesidades}
 
      
 2. **¿Qué problema de la empresa resolvemos con Guacamole y Docker? (*Pista: centralización, ahorro de recursos, seguridad…*).**  
@@ -29,9 +29,12 @@ Bibliografía
 ## 2. Estimación de Costes de Infraestructura
 <img width="788" height="191" alt="image" src="https://github.com/user-attachments/assets/7d4ed8fe-9d30-438e-9614-b149db8ba973" />
 
-### Título 3 {#título-3}
+## 3. Estrategia de espliegue y comunicación
+Se va a usar las integraciones de Cloud nativas pero combinandolas con SFTP. Estas integraciones trabajan de manera segura con HTTPS garantizando así el tránsito de las claves gestionadas. Además, para la autentificación de los roles, se elimina la necesidad de exponer las credenciales estáticas. Como va a ser una transferencia directa a los servidores, SFTP es la mejor opción frente a la otra ya que solo usa un único puerto protegido por SSH, asegurando una comunicación exitosa. 
 
-# Bibliografía {#bibliografía}
+Para que el equipo esté totalmente comunicado cuando pase algo o se tenga que hacer una reunión, la mejor manera es por Microsoft Teams. Es un app preparada para gestionar de manera eficiente la comunicación con los equipos, apoyo en los proyectos y aviso de cualquier incidencia. Es por escelencia la que usan la mayo0ría de las empresas. 
+
+## Bibliografía {#bibliografía}
 
 | \[1\] | “Introducción a Docker ¡Evita problemas de compatibilidad\!”, .*Ed.team*. \[En línea\]. Disponible en: https://ed.team/blog/introduccion-a-docker-evita-problemas-de-compatibilidad. \[Consultado: 15-may-2026\]. |
 | :---- | :---- |
